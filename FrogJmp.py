@@ -5,4 +5,3 @@ def solution(x, y, d):
 
 if __name__ == "__main__":
     print(solution(10, 85, 30) == 3)
-
